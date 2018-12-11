@@ -102,8 +102,6 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
-
 body {
   padding-top: 5rem;
 }
@@ -111,6 +109,8 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+
+
 
 .jumbotron {
   padding: 2rem 1rem;
