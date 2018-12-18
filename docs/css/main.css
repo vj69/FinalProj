@@ -115,8 +115,9 @@ body {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #e9ecef;
+  background-color: #fff3fc;
   border-radius: .3rem;
+  background-image: url("../welcome-2.jpg");
 }
 
 
