@@ -122,8 +122,14 @@ body {
 
 
 
-
-
+.carousel-control-prev-icon{
+  padding: 2rem 1 rem;
+  background-color: #c2c2c2;
+}
+.carousel-control-next-icon{
+  padding: 2rem 1 rem;
+  background-color: #c2c2c2 ;
+}
 
 
 
